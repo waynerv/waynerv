@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently reading << Computer Systems - A Programmer’s Perspective >> 108 / 728.
+- 🌱 I’m currently reading << Computer Systems - A Programmer’s Perspective >> 128 / 728.
 
 <!--
 **waynerv/waynerv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
