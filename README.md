@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 -->
 
 [![Waynerv's github stats](https://github-readme-stats.vercel.app/api?username=waynerv)](https://github.com/anuraghazra/github-readme-stats)
+
+![Metrics](https://metrics.lecoq.io/waynerv?template=classic&languages=1&introduction=1&pagespeed=1&lines=1&activity=1&achievements=1&languages.ignored=html%2Ccss&languages.colors=github&languages.threshold=0%25&introduction.title=true&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&pagespeed.url=waynerv.com&pagespeed.detailed=false&pagespeed.screenshot=true&config.timezone=Asia%2FShanghai)
