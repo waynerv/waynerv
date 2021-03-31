@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Waynerv's github stats](https://github-readme-stats.vercel.app/api?username=waynerv)](https://github.com/anuraghazra/github-readme-stats)
+![Waynerv's github stats](https://github-readme-stats.vercel.app/api?username=waynerv&show_icons=true)
 
 ![Metrics](https://github.com/waynerv/waynerv/blob/master/github-metrics.svg)
