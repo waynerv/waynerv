@@ -21,3 +21,6 @@ jobs:
           base: activity, community, repositories
           config_timezone: Asia/Shanghai
           plugin_lines: yes
+          plugin_rss: yes
+          plugin_rss_limit: 3
+          plugin_rss_source: https://www.waynerv.com/rss.xml
