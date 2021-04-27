@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently reading **<Computer Systems - A Programmer’s Perspective>** 167 / 728.
+- 👷 每晚11点左右会在B站直播做leetcode（新手），欢迎组队或监督。直播间地址：http://live.bilibili.com/23045251
 
 <!--
 **waynerv/waynerv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
