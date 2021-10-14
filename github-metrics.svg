@@ -1456,7 +1456,7 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">如何使用 docker buildx 构建跨平台 Go 镜像</div>
-                                <div class="date">02/09/2021</div>
+                                <div class="date">2 Sept 2021</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -1465,7 +1465,7 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">如何手动安装 Nginx 二进制文件</div>
-                                <div class="date">11/08/2021</div>
+                                <div class="date">11 Aug 2021</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -1474,7 +1474,7 @@
                             </svg>
                             <div class="infos">
                                 <div class="title">容器技术原理(五)：文件系统的隔离和共享</div>
-                                <div class="date">27/07/2021</div>
+                                <div class="date">27 Jul 2021</div>
                             </div>
                         </div>
                     </section>
