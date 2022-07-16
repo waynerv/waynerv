@@ -23,4 +23,4 @@ jobs:
           plugin_lines: yes
           plugin_rss: yes
           plugin_rss_limit: 3
-          plugin_rss_source: https://www.waynerv.com/rss.xml
+          plugin_rss_source: https://waynerv.com/rss.xml
