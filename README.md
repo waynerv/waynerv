@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently reading **<Computer Systems - A Programmer’s Perspective>** 7 / 12 chs.
 - 📘 Check my blog here: [Shall We Code](https://waynerv.com/).
-- 🐶 Vim newbie.
+- 🐶 ~~Vim newbie~~ Neovim enthusiast: [dotfiles](https://github.com/waynerv/dotfiles)
 
 <!--
 **waynerv/waynerv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
